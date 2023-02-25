@@ -1,5 +1,5 @@
 blueprint:
-  name: Thermostat TPI perso
+  name: Thermostat TPI Benoit
   description: Thermostat TPI (Time Propertional & Integral)
   domain: automation
 

@@ -1,5 +1,5 @@
 blueprint:
-  name: Pilotage chauffage perso
+  name: Pilotage chauffage Benoit
   description: Gestion des différents modes de chauffage - Manuel/Auto/Arret/Hors-gel
   domain: automation
 
